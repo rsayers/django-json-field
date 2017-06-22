@@ -30,9 +30,9 @@ If installing manually, first install the dependencies:
 
 Install from GitHub:
 
-    ``git clone git://github.com/derek-schaefer/django-json-field.git``
+    ``git clone git://github.com/rsayers/django-json-field.git``
 
-    ``pip install -e git+git://github.com/derek-schaefer/django-json-field.git#egg=json_field``
+    ``pip install -e git+git://github.com/rsayers/django-json-field.git#egg=json_field``
 
 Configuration
 -------------
